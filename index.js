@@ -1,12 +1,11 @@
 //player1
-
-
 var ran1 = Math.random();
 ran1 *= 6;
 ran1 = Math.floor(ran1) + 1;
 var image1 = "images/dice"+ran1+".png";
 
 document.getElementById("player1").src = image1;
+//Another method --> document.querySelectorAll("img")[1].setAttribute("src","image1");
 
 var ran2 = Math.random();
 ran2 *= 6;

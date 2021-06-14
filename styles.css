@@ -1,10 +1,10 @@
 body{
-  background-color: #2f5d62;
+  background-color: #5E8B7E;
 }
 
 .color
 {
-  color : #a7c4bc;
+  color : #CAF7E3;
 }
 
 h2
@@ -12,7 +12,7 @@ h2
   padding : 4rem;
   font-size: 2.5rem;
   display : inline;
-  color : #a7c4bc;
+  color : #CAF7E3;
 }
 
 .central
@@ -38,7 +38,7 @@ img
 
 .flag
 {
-  margin-left : 2rem;
+  margin : 0 2rem 0 2rem ;
   padding : 0;
   width : 3.5rem;
 }
